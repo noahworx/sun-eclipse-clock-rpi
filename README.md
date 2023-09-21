@@ -1,8 +1,8 @@
 # sun-eclipse-clock-rpi
 
 
-The Project is for building a Clock 
-for the Next sun/moon eclipse.
+The Project you build is a Clock 
+for the next sun/moon eclipse and can display the moon cycle.
 
 What do you need:
 You need a Raspberrypi, RTC( Realtimeclock), Waveshare E paper 12,3 inch display 
